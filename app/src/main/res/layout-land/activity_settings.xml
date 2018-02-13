@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.uoj.team.unduh.Settings"
+    android:background="@drawable/home_background">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:hint="@string/settings"
+        android:inputType="textCapWords"
+
+        android:textAllCaps="true"
+        android:textColorHint="@color/lightgray"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+
+            android:layout_marginTop="30dp"
+            android:gravity="left"
+            android:hint="@string/settings"
+            android:inputType="textCapWords"
+            android:textAllCaps="true"
+            android:textColorHint="@color/lightgray"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+
+            android:layout_marginTop="30dp"
+            android:gravity="right"
+            android:hint="@string/settings"
+            android:inputType="textCapWords"
+            android:textAllCaps="true"
+            android:textColorHint="@color/lightgray"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+
+            android:layout_marginTop="30dp"
+            android:gravity="left"
+            android:hint="@string/settings"
+            android:inputType="textCapWords"
+            android:textAllCaps="true"
+            android:textColorHint="@color/lightgray"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+
+            android:layout_marginTop="30dp"
+            android:gravity="right"
+            android:hint="@string/settings"
+            android:inputType="textCapWords"
+            android:textAllCaps="true"
+            android:textColorHint="@color/lightgray"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+
+            android:layout_marginTop="30dp"
+            android:gravity="left"
+            android:hint="@string/settings"
+            android:inputType="textCapWords"
+            android:textAllCaps="true"
+            android:textColorHint="@color/lightgray"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+
+            android:layout_marginTop="30dp"
+            android:gravity="right"
+            android:hint="@string/settings"
+            android:inputType="textCapWords"
+            android:textAllCaps="true"
+            android:textColorHint="@color/lightgray"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
